@@ -16,5 +16,5 @@ cloud studio的browser-plus的配套js
 ## Useage
 html代码中引用
 ```
-<script src=""></script>
+<script src="https://unpkg.com/browser-plus-js@1.0.1/console.js"></script>
 ```
