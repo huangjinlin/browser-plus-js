@@ -1,0 +1,25 @@
+{
+  "name": "browser-plus-js",
+  "version": "1.0.0",
+  "description": "browser-plus plugin for cloud studio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangjinlin/browser-plus-js.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "files" :[
+    "console.js"
+  ],
+  "author": "huangjinlin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huangjinlin/browser-plus-js/issues"
+  },
+  "homepage": "https://github.com/huangjinlin/browser-plus-js#readme"
+}
